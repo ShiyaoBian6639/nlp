@@ -1,3 +1,7 @@
+numpy
 tensorflow-gpu
 tensorflow-text
 tf-models-official
+sklearn
+matplotlib
+seaborn
